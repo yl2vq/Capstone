@@ -2,4 +2,4 @@
 ## Sponsored by the Metropolitan Museum of Art and UVA School of Data Science
 
 # Data
-link: https://metmuseum.github.io/
+The data was acquired from [the Met API](https://metmuseum.github.io/)
