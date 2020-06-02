@@ -13,3 +13,5 @@ world.
 - 27% have descriptions/labels
 - Largest collection is Drawings and Prints. Estimated 1 million+ objects. Cataloguing is ongoing. 35% of online collection is from the Drawings and Prints department.
 - 677K total images online (not all public domain)
+
+# Summary
