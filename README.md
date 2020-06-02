@@ -20,7 +20,7 @@ world.
 
 # Abstract
 
-*Abstract—Machine learning and computer vision have been
+***Abstract**—Machine learning and computer vision have been
 applied for image recognition of art objects such as paintings,
 sculpture images etc. In particular, deep learning methods for
 image classification in art have been used to improve user engagement
